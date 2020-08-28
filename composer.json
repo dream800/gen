@@ -1,0 +1,13 @@
+{
+    "name": "dream/gen",
+    "description": "gen crud code",
+    "type": "library",
+    "license": "0.0.1",
+    "authors": [
+        {
+            "name": "dream",
+            "email": "1831761821@qq.com"
+        }
+    ],
+    "require": {}
+}
