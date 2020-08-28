@@ -2,7 +2,7 @@
     "name": "dreamcoder/gen",
     "description": "gen crud code",
     "type": "library",
-    "license": "0.0.1",
+    "license": "1.0",
     "authors": [
         {
             "name": "dream",
